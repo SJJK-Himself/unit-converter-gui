@@ -69,7 +69,7 @@
             // toLabel
             // 
             this.toLabel.AutoSize = true;
-            this.toLabel.Location = new System.Drawing.Point(200, 41);
+            this.toLabel.Location = new System.Drawing.Point(205, 41);
             this.toLabel.Name = "toLabel";
             this.toLabel.Size = new System.Drawing.Size(0, 13);
             this.toLabel.TabIndex = 3;
@@ -77,7 +77,7 @@
             // 
             // textBoxResult
             // 
-            this.textBoxResult.Location = new System.Drawing.Point(265, 12);
+            this.textBoxResult.Location = new System.Drawing.Point(279, 12);
             this.textBoxResult.Name = "textBoxResult";
             this.textBoxResult.ReadOnly = true;
             this.textBoxResult.Size = new System.Drawing.Size(137, 20);
@@ -92,7 +92,7 @@
             "Miles",
             "Meters",
             "Feet"});
-            this.comboBox2.Location = new System.Drawing.Point(265, 38);
+            this.comboBox2.Location = new System.Drawing.Point(279, 38);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(137, 21);
             this.comboBox2.TabIndex = 6;
@@ -103,7 +103,7 @@
             // 
             this.convertLabel.AllowDrop = true;
             this.convertLabel.AutoSize = true;
-            this.convertLabel.Location = new System.Drawing.Point(192, 15);
+            this.convertLabel.Location = new System.Drawing.Point(208, 15);
             this.convertLabel.Name = "convertLabel";
             this.convertLabel.Size = new System.Drawing.Size(0, 13);
             this.convertLabel.TabIndex = 7;
@@ -111,7 +111,7 @@
             // measurement2_label
             // 
             this.measurement2_label.AutoSize = true;
-            this.measurement2_label.Location = new System.Drawing.Point(434, 14);
+            this.measurement2_label.Location = new System.Drawing.Point(422, 15);
             this.measurement2_label.Name = "measurement2_label";
             this.measurement2_label.Size = new System.Drawing.Size(0, 13);
             this.measurement2_label.TabIndex = 8;
